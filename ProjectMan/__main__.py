@@ -15,10 +15,10 @@ from ProjectMan import BOTLOG_CHATID, LOGGER, LOOP, aiosession, bot1, bots
 from ProjectMan.helpers.misc import create_botlog, git, heroku
 
 MSG_ON = """
-🔥 **PyroMan-Userbot Berhasil Di Aktifkan**
+🔥 **AEL-Userbot Berhasil Di Aktifkan**
 ━━
 ➠ **Userbot Version -** `{}`
-➠ **Ketik** `{}alive` **untuk Mengecheck Bot**
+➠ **Ketik** `{}alive` **untuk Mengecheck gantengnya**
 ━━
 """
 
